@@ -35,18 +35,12 @@ text-align: center;
 
 }
 
-.bottomBox {
-  text-align: left;
-  border: 1px solid black;
-  padding: 15px;
+footer {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* Height of the footer*/ 
+  height: 40px;
+  background: grey;
 }
-
-.bottomBox :first-child {
-  padding: 5px 0;
-  padding-left: 15px;
-  width: calc(100% + 15px);
-  margin: -15px -15px 0 -15px;
-  background-color:black;
-  color: white;
-}
-
