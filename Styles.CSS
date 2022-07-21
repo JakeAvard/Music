@@ -30,3 +30,8 @@ text-align: center;
     background-color: #624a2e;
     color: black;
   }
+.player {
+  width: calc(100%-25px);
+  
+}
+
