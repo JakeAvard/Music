@@ -13,6 +13,8 @@ text-align: center;
 .banner{
 
   text-align: center;
+  border: 5px solid black;
+    padding: 15px;
 }
 
 
