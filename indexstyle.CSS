@@ -35,6 +35,11 @@ text-align: center;
     background-color: #71797E;
     color: black;
   }
+  .H1Links {
+    text-align: right;
+    size: 10px;}
+
+    
 .player {
   width: calc(100%-25px);
 
