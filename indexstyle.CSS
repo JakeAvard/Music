@@ -1,7 +1,7 @@
 
 
 html{
-    background-color: #333333;
+    background-color: #f6f1e9;
 }
 
 body{   margin: 0;
@@ -32,7 +32,7 @@ text-align: center;
     padding-left: 30px;
     width: calc(100% + 30px);
     margin: -30px -30px 0 -30px;
-    background-color: #5c5c5c;
+    background-color: #71797E;
     color: black;
   }
 .player {
