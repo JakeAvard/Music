@@ -21,13 +21,16 @@ text-align: center;
     border: 5px solid black;
     padding: 30px;
   }
-  
+  .H1Links {
+    text-align: right;
+    size: 10px;
+  }
   .textBox :first-child {
     padding:30px 0;
     padding-left: 30px;
     width: calc(100% + 30px);
     margin: -30px -30px 0 -30px;
-    background-color: #624a2e;
+    background-color: #5c5c5c;
     color: black;
   }
 .player {
