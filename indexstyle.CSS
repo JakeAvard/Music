@@ -54,7 +54,8 @@ footer {
   height: 40px;
   background: #71797E;
 }
-.H1Links {
+.Links {
   text-align: right;
+  color: blue
   size: 10px;
 }
