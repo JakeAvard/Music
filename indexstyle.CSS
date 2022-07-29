@@ -12,10 +12,8 @@ html{
  
 
 
-  background-image: url(https://i.scdn.co/image/ab67616d0000b273854b29c623bfaecc58770acf
-  );
-  background-color: #cccccc;
-
+  
+  background: #71797E;
   padding: 30px;
   border: 2px solid black;
 
@@ -23,7 +21,10 @@ html{
 }
 
 body{   margin: 0;
-background: #f6f1e9;border: 10px;
+background-image: url(https://i.scdn.co/image/ab67616d0000b273854b29c623bfaecc58770acf
+  );
+background-color: #cccccc;
+;border: 10px;
 text-align: center;
 }
 
