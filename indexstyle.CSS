@@ -1,21 +1,21 @@
 
 html{
+  margin: 0;
+  background-image: url(https://i.scdn.co/image/ab67616d0000b273854b29c623bfaecc58770acf
+    );
+  background-color: #cccccc;
+  ;border: 10px;
+  text-align: center;
+  width: 100%;
 
-   
-  
-   
 }
 
 .HEADER1{
- 
 
-
-  
   background: #71797E;
   padding: 30px;
   border: 2px solid black;
 
-  
 }
 
 body{   margin: 0;
