@@ -20,8 +20,10 @@ text-align: center;
 
 .textBox {
     text-align: left;
-    border: 5px solid black;
+    border: 1px solid black;
     padding: 30px;
+    text-size-adjust: calc(100% +30px)
+    
   }
   h2 {
     text-align: right;
