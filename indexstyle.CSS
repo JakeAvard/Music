@@ -15,7 +15,9 @@ html{
   background: #71797E;
   padding: 30px;
   border: 2px solid black;
-
+  font-size: 50px;
+  text-size-adjust: calc(100%+50px);
+  font-family: 'Lato';
 }
 
 body{   margin: 0;
