@@ -72,6 +72,7 @@ footer {
   width: 100%;
   /* Height of the footer*/ 
   height: 40px;
+  border: black;
   background: #71797E;
 }
 .Links {
